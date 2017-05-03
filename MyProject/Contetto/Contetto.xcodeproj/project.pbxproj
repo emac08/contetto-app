@@ -287,7 +287,7 @@
 				TargetAttributes = {
 					6FF55B011EB29B2100E7FD52 = {
 						CreatedOnToolsVersion = 8.3.2;
-						DevelopmentTeam = 2P2LY7X82G;
+						DevelopmentTeam = BER786ST9E;
 						ProvisioningStyle = Automatic;
 					};
 					6FF55B1A1EB29B2100E7FD52 = {
@@ -530,10 +530,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = 2P2LY7X82G;
+				DEVELOPMENT_TEAM = BER786ST9E;
 				INFOPLIST_FILE = Contetto/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.joeharris.Contetto;
+				PRODUCT_BUNDLE_IDENTIFIER = com.testingcc.app;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -546,10 +547,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = 2P2LY7X82G;
+				DEVELOPMENT_TEAM = BER786ST9E;
 				INFOPLIST_FILE = Contetto/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.joeharris.Contetto;
+				PRODUCT_BUNDLE_IDENTIFIER = com.testingcc.app;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";

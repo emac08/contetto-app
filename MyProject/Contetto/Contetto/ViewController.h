@@ -10,7 +10,7 @@
 #import <WebKit/WebKit.h>
 #import "MBProgressHUD.h"
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController<WKUIDelegate>
 
 
 @end
